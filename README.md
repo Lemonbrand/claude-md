@@ -42,4 +42,4 @@ I'm Simon Bergeron. I spend most of my time in Claude Code running multi-agent s
 
 The system reviews the output. I review the system.
 
-[LinkedIn](https://www.linkedin.com/in/slbergeron/) | [Waitlist](https://lemonbrand.com)
+[LinkedIn](https://www.linkedin.com/in/slbergeron/) | [7-Day Sprint Waitlist](https://learn.lemonbrand.io/sprint)
